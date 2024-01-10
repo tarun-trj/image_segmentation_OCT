@@ -1,1 +1,1 @@
-# Segmentation of Macualar Edema in Retinal OCT Scans
+# Segmentation of Macular Edema in Retinal OCT Scans
